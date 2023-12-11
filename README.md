@@ -1,0 +1,1 @@
+# materialui_strapi_3d_shop
